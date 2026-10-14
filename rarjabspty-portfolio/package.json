@@ -1,7 +1,7 @@
 {
   "name": "rarjabspty-portfolio",
   "private": true,
-  "homepage": "https://rarjabspty.github.io"
+  "homepage": "https://rarjabspty.github.io",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
